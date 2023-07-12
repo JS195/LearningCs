@@ -6,7 +6,17 @@ namespace LearningCs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Title = "SkyNet";
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.WindowHeight = 40;
+
+            Console.WriteLine("Hello, whats your name?");
+            Console.ReadLine();
+
+            Console.WriteLine("I am an evil AI");
+
+            Console.ReadKey();
         }
     }
 }
