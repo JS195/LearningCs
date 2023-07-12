@@ -6,11 +6,24 @@ namespace LearningCs
     {
         static void Main(string[] args)
         {
-            string[] names = {"Tom", "Dick", "Harry", "Tony"};
+            // Creating an empty string array of size 4
+            string[] movies = new string[4];
 
-            for (int i = 0; i < 4; i++)
-            {Console.WriteLine(names[i]);
+            Console.WriteLine("Type in your four movies");
+
+            for (int i = 0; i < movies.Length; i++)
+            {
+                movies[i] = Console.ReadLine();
             }
+
+            Console.WriteLine("In Alphabetical order: ");
+            Array.Sort(movies);
+            for (int i =0; i<movies.Length; i ++)
+            {
+                Console.WriteLine(movies[i]);
+            }
+
+            
             Console.ReadKey();
         }
     }
