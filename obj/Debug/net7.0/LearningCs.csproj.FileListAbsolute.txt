@@ -1,0 +1,15 @@
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\bin\Debug\net7.0\LearningCs.exe
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\bin\Debug\net7.0\LearningCs.deps.json
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\bin\Debug\net7.0\LearningCs.runtimeconfig.json
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\bin\Debug\net7.0\LearningCs.dll
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\bin\Debug\net7.0\LearningCs.pdb
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\LearningCs.csproj.AssemblyReference.cache
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\LearningCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\LearningCs.AssemblyInfoInputs.cache
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\LearningCs.AssemblyInfo.cs
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\LearningCs.csproj.CoreCompileInputs.cache
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\LearningCs.dll
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\refint\LearningCs.dll
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\LearningCs.pdb
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\LearningCs.genruntimeconfig.cache
+C:\Users\smith\OneDrive\Documents\Coding projects\LearningCs\obj\Debug\net7.0\ref\LearningCs.dll
