@@ -10,6 +10,14 @@ namespace LearningCs
             voidInstance.MeetAlien();
             Console.WriteLine("-------------------------");
             voidInstance.MeetAlien();
+            Console.WriteLine("-------------------------");
+            
+            int num01;
+            num01 = Convert.ToInt32(Console.ReadLine());
+
+            int answer;
+            answer = voidInstance.Square(num01);
+            Console.WriteLine(answer);
             Console.ReadKey();
         }
 
@@ -21,6 +29,12 @@ namespace LearningCs
 
             Console.WriteLine("Hi, I'm " + name);
             Console.WriteLine("I am "+age+" years old");
+        }
+
+        public int Square(int number)
+        {
+            int result = number*number;
+            return result;
         }
     }
 }
