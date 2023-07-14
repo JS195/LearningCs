@@ -7,15 +7,20 @@ namespace LearningCs
         static void Main(string[] args)
         {
             Functions voidInstance = new Functions();
-            voidInstance.PrintNumber();
+            voidInstance.MeetAlien();
+            Console.WriteLine("-------------------------");
+            voidInstance.MeetAlien();
             Console.ReadKey();
         }
 
-        public void PrintNumber()
+        public void MeetAlien()
         {
-            Random numGen = new Random();
-            int number = numGen.Next(0, 10);
-            Console.WriteLine(number);
+            Random numberGen = new Random();
+            string name = "X-" +numberGen.Next(10, 9999);
+            int age = numberGen.Next(10,500);
+
+            Console.WriteLine("Hi, I'm " + name);
+            Console.WriteLine("I am "+age+" years old");
         }
     }
 }
